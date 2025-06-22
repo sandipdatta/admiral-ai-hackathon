@@ -29,7 +29,7 @@ Your first step is to log in to the Google Cloud Console and select your assigne
 * Once logged in, click on the **"Select a project"** dropdown at the top of the page.
 * Choose the specific hackathon project assigned to your team from the list.
 
-<img src="https://storage.googleapis.com/sandipdatta-admiral-ai-hackathon/01-login-and-set-project.gif" alt="Login to GCP and Set Project">
+<img src="assets/01-login-and-set-project.gif" alt="Login to GCP and Set Project">
 
 ---
 
@@ -45,7 +45,7 @@ Now you'll create and start your personal Cloud Workstation.
 * Once created, you will see your workstation listed. Click the **"Start"** button next to your workstation's name.
 * Please note: The workstation may take approximately one minute to start up.
 
-<img src="https://storage.googleapis.com/sandipdatta-admiral-ai-hackathon/02-start-workstation.gif" alt="Create and Start Workstation">
+<img src="assets/02-start-workstation.gif" alt="Create and Start Workstation">
 
 ---
 
@@ -71,7 +71,7 @@ After your workstation has started, you can launch your IDE and proceed with ini
 * Click **"Select a Google Cloud project"** and select the hackathon project assigned to you.
 * **Please Note:** Gemini Code Assist's full coding agent functionality is scheduled for release next month. While you can sign in and explore current features, its primary use as a robust coding agent for this hackathon might be limited. Therefore, signing into Gemini Code Assist is optional for the purposes of this hackathon, which is focused on exploring coding agents.
 
-<img src="https://storage.googleapis.com/sandipdatta-admiral-ai-hackathon/03-launch-workstation-cloud-code-sign-in.gif" alt="Launch Workstation and Cloud Code Sign-in">
+<img src="assets/03-launch-workstation-cloud-code-sign-in.gif" alt="Launch Workstation and Cloud Code Sign-in">
 
 ---
 
@@ -83,7 +83,7 @@ Your custom image has Claude Code pre-installed. To use it, you'll need an API k
     * Open a **new terminal window** within your VS Code IDE (Terminal > New Terminal).
     * Type `claude` and follow the on-screen instructions to authenticate with Claude.
 
-<img src="https://storage.googleapis.com/sandipdatta-admiral-ai-hackathon/04-launch-claude.gif" alt="Launch Claude Code">
+<img src="assets/04-launch-claude.gif" alt="Launch Claude Code">
 
 ---
 
@@ -109,7 +109,7 @@ Detailed instructions on how to set this up can be found in the official Google 
 
 Occasionally, upon starting your workstation, you might encounter an error message in your browser stating: "Unable to forward your request to a backend" with details about not being able to connect to port 80.
 
-<img src="https://storage.googleapis.com/sandipdatta-admiral-ai-hackathon/99-unable-to-forward-request-to-backend.png" alt="Unable to forward request to backend">
+<img src="assets/99-unable-to-forward-request-to-backend.png" alt="Unable to forward request to backend">
 
 **Solution:**
 This is typically a transient issue. If you see this message, simply **retry launching the IDE** by clicking the "Launch" button again in the Cloud Workstations console. It should work fine on the second attempt.
