@@ -6,14 +6,14 @@ Welcome to the Admiral Hackathon! This guide will walk you through setting up yo
 
 ### What are Cloud Workstations?
 
-**Cloud Workstations** is a fully managed development environment service in Google Cloud that provides secure, scalable, and customizable development workstations hosted in the cloud. Instead of developing directly on your local machine, your IDE and all your development tools run on a powerful virtual machine in Google Cloud.
+**Cloud Workstations** is a fully managed development environment service in Google Cloud that provides secure, scalable, and customisable development workstations hosted in the cloud. Instead of developing directly on your local machine, your IDE and all your development tools run on a powerful virtual machine in Google Cloud.
 
 **Key Benefits:**
 * **Security:** Your code and development environment remain secure within Google Cloud's infrastructure, reducing risks associated with local development.
 * **Performance:** Access powerful, scalable computing resources in the cloud, allowing for faster builds, tests, and overall development workflows, without impacting your local machine's performance.
-* **Consistency:** Every developer gets a standardized, pre-configured environment, eliminating "it works on my machine" issues and speeding up team onboarding.
+* **Consistency:** Every developer gets a standardised, pre-configured environment, eliminating "it works on my machine" issues and speeding up team onboarding.
 * **Flexibility:** You can access your consistent development environment from any device with a browser, or integrate with your local VS Code or Cursor AI editor for a familiar experience with a cloud backend.
-* **Centralized Management:** Simplify the management of dependencies, security patches, and tool updates across all developer environments.
+* **Centralised Management:** Simplify the management of dependencies, security patches, and tool updates across all developer environments.
 
 Your Cloud Workstation comes pre-configured with essential tools like Claude Code, MongoDB, and PostgreSQL, to get you started quickly on your projects.
 
@@ -95,7 +95,7 @@ For experienced users who prefer their local development environment but want to
 
 **Benefits:**
 * **Install Any Software:** You can install specific software or tools directly on your Cloud Workstation that you might not have permissions to install on your local laptop.
-* **Powerful Backend:** Utilize the workstation's robust compute resources (CPU, RAM, GPU if configured) for heavy tasks, while still using your familiar local IDE interface.
+* **Powerful Backend:** Utilise the workstation's robust compute resources (CPU, RAM, GPU if configured) for heavy tasks, while still using your familiar local IDE interface.
 
 **Instructions:**
 Detailed instructions on how to set this up can be found in the official Google Cloud Workstations documentation:
