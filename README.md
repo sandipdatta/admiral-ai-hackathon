@@ -1,4 +1,4 @@
-# Admiral AI in Engineering Hackathon 2024: Cloud Workstations Setup Guide
+# Admiral AI in Engineering Hackathon: Cloud Workstations Setup Guide
 
 Welcome to the Admiral Hackathon! This guide will walk you through setting up your Google Cloud Workstation, which comes pre-configured with essential tools like Claude Code, MongoDB, and PostgreSQL, to get you started quickly on your projects.
 
